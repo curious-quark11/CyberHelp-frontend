@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: linear-gradient(to right, #0a3d62, #3c6382);
+  background: linear-gradient(to right, #0b3d91,#0b3d91);
   padding: 1rem 2rem;
   color: white;
 }
@@ -58,7 +58,7 @@ footer {
   border-radius: 4px;
   padding: 4px;
 }
-/* Logo Styling */
+
 .logo-container {
   flex: 1;
   text-align: center;
@@ -224,7 +224,7 @@ header {
 }
 .hero {
   padding: 4rem 2rem;
-  background: linear-gradient(to right, #05b6b3, #003366);
+  background: linear-gradient(to right, #0b3d91, #0b3d91);
   color: white;
   text-align: center;
 }
